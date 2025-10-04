@@ -234,13 +234,13 @@ The most useful command here is **"a"**, the align shortcut command.  Let us now
 
 You have now successfully placed two cells together.  Repeat this for all cells to form a perfectly aligned and placed line of standard cells as shown below.
 
-<p align="center"> <img src="diagrams/placement.jpg" width="1200" height="150"> </p><BR>
+<p align="center"> <img src="diagrams/placement.jpg" width="1200" height="100"> </p><BR>
 
 Before we finish this placement step, we need to add to both ends of this layout a tap cell.  The tap cell connects the n-well (for p-type transistors) to the VDD power rail, and the substrate (for n-type transistors) to VSS (i.e. GND).  Such connections are NOT included in the Verilog netlist.
 
 Use the **"i"** shortcut command to pick up an instance. This will pop up a **"Create Instance"** dialogue box. Fill this in as shown below:
 
-<p align="center"> <img src="diagrams/tap.jpg" width="300" height="120"> </p><BR>
+<p align="center"> <img src="diagrams/tap.jpg" width="600" height="200"> </p><BR>
 
 Now place a tap cell on both ends of the row of cells to provide connections to VDD and VSS. Align them precisely.
 
