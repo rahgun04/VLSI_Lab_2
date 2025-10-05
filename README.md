@@ -20,7 +20,7 @@ By the end of this laboratory session, you should be able to do the following.
 * Use Cadence's Calibre tool package to verify that your layout is the same as the schmatic.
 
 ---
-### Task 1 - Deep Dive into Inverter Layour (15-20 minutes)
+### Task 1 - Deep Dive into Inverter Layour (30 minutes)
 ---
 The purpose of this task is for you to understand the different mask layers that make up a simple inverter from the layout.  This helps you to appreciate the fabrication process and the physical aspect of VLSI design.
 
@@ -85,7 +85,7 @@ Discuss with your partner what you understand from this exercise.
 > * M1 - cell input output pin locations on metal 1
 
 
-### Task 2 - Extract Circuit from Layout (15-20 minutes)
+### Task 2 - Extract Circuit from Layout (40 minutes)
 
 The goal of this task is for you to learn how to intepret a layout and re-create the transistor schematic of a 12-transistors standard cell.
 
@@ -111,7 +111,7 @@ You and your lab partner are now required to extract from this layout all the tr
 
 > You can remove the measurements and rulers with the **_SHIFT-k_** command.
 
-### Task 3 - Hand Place the standard cells (20-30 min)
+### Task 3 - Hand Place the standard cells (45 min)
 
 The purpose of this task is for you to learn how to use Virtuoso for **layout editing**.  While you will not be designing layout of a gate from transistor up, you will still need to learn how to wire up synthesize, placed and routed modules and connect them to the pad ring.
 
@@ -271,7 +271,7 @@ Several window will pop up including the **_Calibre RVE_** window that shows any
 > Try this and explore the DRC report.
 
 
-### Task 4 - Hand Route the standard cells (30-45 min)
+### Task 4 - Hand Route the standard cells (60 min)
 
 The next task is to connect all these cells according to the following wiring diagram. 
 
@@ -343,7 +343,7 @@ There are several internal signals including four output siganls Q[4:1].  Note t
 
 Somewhere on the layout are all the pins (ports) associated with LFSR4. Place these pins onto their corresponding wires. Then perform the final DRC check.
 
-### Task 5 - Perform Layout vs Schematic (LVS) check_**
+### Task 5 - Perform Layout vs Schematic (LVS) check (5 min)
 
 The final task is to confirm that the layout you created implements the circuit specified by the imported schematic. The steps are similar to DRC. 
 
