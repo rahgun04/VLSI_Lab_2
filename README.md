@@ -150,13 +150,11 @@ To successfully important the Verilog netlist from Lab 1, follow the steps below
 2. Set **LAB_2** (or whatever name you call this folder) as the target library (project) to be stored.
 3. Add into the **reference library** list the technology file we are using. This contains information about the standard cells.
 4. Specify that you can to important this Verilog netlist as both **schematic and functional**.  This allows for Layout vs Schematic verification later.
-5. Now go to **_"Global Net Options"_**
-6. 
-7. § menu at the top to change the window contents.
-8. Remove the "!" characters in the power net names to "VDD" and "VSS".
-9. Click OK to important the Verilog netlist and generate a schematic diagram.
+5. Now go to **_"Global Net Options"_** menu at the top to change the dialogue box contents.
+7. Remove the "!" characters in the power net names to "VDD" and "VSS".
+8. Click OK to important the Verilog netlist and generate a schematic diagram.
     
-10. Use the "f" short-cut to fit the entire schematic in the newly opened window.
+9.  Use the "f" short-cut to fit the entire schematic in the newly opened window.
 
 You should see the schematic circuit for the PnRed LFSR4 module from Lab 1 as below.
    
