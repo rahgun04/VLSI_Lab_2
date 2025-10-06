@@ -20,13 +20,13 @@ By the end of this laboratory session, you should be able to do the following.
 * Use Cadence's Calibre tool package to verify that your layout is the same as the schmatic.
 
 ---
-### Task 1 - Deep Dive into Inverter Layour (30 minutes)
+### Task 1 - Deep Dive into Inverter Layout (30 minutes)
 ---
 The purpose of this task is for you to understand the different mask layers that make up a simple inverter from the layout.  This helps you to appreciate the fabrication process and the physical aspect of VLSI design.
 
 **_Step 1: Launch Virtuoso_**
 
-Log onto the teaching server ee-mill1 or ee-mill2 (depending on your group number), and set up to use **_pdk tsmc65LP_** as before.
+Log onto the teaching server ee-mill1 or ee-mill2 (depending on your group number), and set up the technology with **_pdk tsmc65LP_** as before.
 
 Navigate to the same folder that contains Lab 1's design. Launch Virtuoso layout editor in the background by typing:
 ```bash
