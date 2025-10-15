@@ -1,0 +1,41 @@
+// Created by ihdl
+module lfsr4 (
+	clk, 
+	rst, 
+	data_out);
+   input clk;
+   input rst;
+   output [3:0] data_out;
+
+   // Internal wires
+   wire FE_PHN1_rst;
+   wire FE_PHN0_rst;
+   wire n_0;
+   wire n_1;
+
+   BUFFD1BWP7T FE_PHC1_rst (.I(rst),
+	.Z(FE_PHN1_rst));
+   CKBD0BWP7T FE_PHC0_rst (.I(FE_PHN1_rst),
+	.Z(FE_PHN0_rst));
+   DFSNQD1BWP7T \sreg_reg[1]  (.CP(clk),
+	.D(n_1),
+	.Q(data_out[0]),
+	.SDN(n_0));
+   CKXOR2D0BWP7T g16__8780 (.A1(data_out[2]),
+	.A2(data_out[3]),
+	.Z(n_1));
+   DFCNQD1BWP7T \sreg_reg[4]  (.CDN(n_0),
+	.CP(clk),
+	.D(data_out[2]),
+	.Q(data_out[3]));
+   DFCNQD1BWP7T \sreg_reg[3]  (.CDN(n_0),
+	.CP(clk),
+	.D(data_out[1]),
+	.Q(data_out[2]));
+   DFCNQD1BWP7T \sreg_reg[2]  (.CDN(n_0),
+	.CP(clk),
+	.D(data_out[0]),
+	.Q(data_out[1]));
+   INVD0BWP7T g20 (.I(FE_PHN0_rst),
+	.ZN(n_0));
+endmodule

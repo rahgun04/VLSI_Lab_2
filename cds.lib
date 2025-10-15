@@ -1,0 +1,19 @@
+DEFINE cdsDefTechLib $CDSHOME/tools/dfII/etc/cdsDefTechLib
+DEFINE basic $CDSHOME/tools/dfII/etc/cdslib/basic
+DEFINE analogLib $CDSHOME/tools/dfII/etc/cdslib/artist/analogLib
+DEFINE tsmcN65 $TSMC_PDK_PATH/tsmcN65
+DEFINE functional $CDS_INST_DIR/tools/dfII/etc/cdslib/artist/functional
+DEFINE sbaLib $CDS_INST_DIR/tools/dfII/etc/cdslib/artist/sbaLib
+DEFINE US_8ths $CDS_INST_DIR/tools/dfII/etc/cdslib/sheets/US_8ths
+DEFINE ahdlLib $CDS_INST_DIR/tools/dfII/samples/artist/ahdlLib
+DEFINE passiveLib $CDS_INST_DIR/tools/dfII/samples/artist/passiveLib
+DEFINE rfLib $CDS_INST_DIR/tools/dfII/samples/artist/rfLib
+DEFINE pllLib $CDS_INST_DIR/tools/dfII/samples/artist/pllLib
+DEFINE bmslib $CDS_INST_DIR/tools/dfII/samples/artist/bmslib
+DEFINE aExamples $CDS_INST_DIR/tools/dfII/samples/artist/aExamples
+DEFINE sample $CDS_INST_DIR/tools/dfII/samples/cdslib/sample
+DEFINE SEALRING $TSMC_PDK_PATH/tsmc_libraries/TSMCHOME/SEALRING
+
+INCLUDE $TSMC_PDK_PATH/tsmcBE.lib
+DEFINE LAB_2 /home/ac5522/VLSI/VLSI_Lab_2/LAB_2
+DEFINE avTech /usr/local/cadence/ASSURA_04.16.109_618/tools.lnx86/assura/etc/avtech/avTech

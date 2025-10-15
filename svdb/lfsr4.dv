@@ -1,0 +1,6 @@
+# CALIBRE-LVS DISCREPANCY VIEWER TCL FILE 
+# FILE: svdb/lfsr4.dv
+dv_start matched                                  
+dv_cell {lfsr4} {lfsr4} matched
+dv_obj_count -transformed_nets {45 45} -transformed_inst {60 60} -transformed_port {0 0}
+dv_end

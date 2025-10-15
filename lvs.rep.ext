@@ -1,0 +1,26 @@
+
+
+       #############################################################
+       ##                                                         ##
+       ##               C A L I B R E    S Y S T E M              ##
+       ##                                                         ##
+       ##    C I R C U I T   E X T R A C T I O N   R E P O R T    ##
+       ##                                                         ##
+       #############################################################
+
+
+REPORT FILE NAME:         lvs.rep.ext
+LAYOUT NAME:              lvs_top.gds ('lfsr4')
+CREATION TIME:            Tue Oct 14 22:52:27 2025
+CURRENT DIRECTORY:        /home/ac5522/VLSI/VLSI_Lab_2
+USER NAME:                ac5522
+CALIBRE VERSION:          v2018.4_17.10    Wed Oct 3 17:09:05 PDT 2018
+
+
+
+
+WARNING: Invalid PATHCHK request "! POWER": no POWER nets present, operation aborted.
+
+
+WARNING: Invalid PATHCHK request "! GROUND": no GROUND nets present, operation aborted.
+

@@ -1,0 +1,23 @@
+@(#)$CDS: ihdl version 6.1.8-64b 08/27/2019 20:18 (sjfhw317) $  Thu Oct  9 18:49:02 2025
+
+INFO (VERILOGIN-589): Using ncvlog binary for compilation.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module BUFFD1BWP7T. Therefore using library
+tcbn65lpbwp7t_9lm, cell BUFFD1BWP7T, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module CKBD0BWP7T. Therefore using library
+tcbn65lpbwp7t_9lm, cell CKBD0BWP7T, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module DFSNQD1BWP7T. Therefore using library
+tcbn65lpbwp7t_9lm, cell DFSNQD1BWP7T, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module CKXOR2D0BWP7T. Therefore using library
+tcbn65lpbwp7t_9lm, cell CKXOR2D0BWP7T, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module DFCNQD1BWP7T. Therefore using library
+tcbn65lpbwp7t_9lm, cell DFCNQD1BWP7T, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module INVD0BWP7T. Therefore using library
+tcbn65lpbwp7t_9lm, cell INVD0BWP7T, and view symbol as the symbol.
+INFO (VERILOGIN-575): Symbol 'lfsr4' was not imported because it already exists in library 'LAB_2'.
+To overwrite the symbol, select an appropriate option from the Overwrite Symbol
+Views drop-down list and try again.
+INFO (VERILOGIN-376): Schematic for lfsr4 exists in the library LAB_2. Not imported since the overwrite
+option is set to off.
+INFO (VERILOGIN-347): Functional view for lfsr4 exists in library LAB_2. Not imported since the overwrite
+option is set to off.
+INFO (VERILOGIN-206): End of Logfile.

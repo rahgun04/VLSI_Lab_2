@@ -1,0 +1,36 @@
+
+
+==================================================================================
+=== CALIBRE::LVS-H SUMMARY REPORT
+===
+
+Extraction Summary
+------------------
+Extraction Start Time:                       Tue Oct 14 22:52:27 2025
+Extraction Finish Time:                      Tue Oct 14 22:52:28 2025
+Circuit Extraction Report:                   lvs.rep.ext
+Circuit Extraction SPICE Netlist:            /home/ac5522/VLSI/VLSI_Lab_2/lfsr4.sp
+
+Electrical Rule Checking (ERC)
+------------------------------
+ERC Results Database:                        calibre_erc.db
+ERC Summary Report File:                     calibre_erc.sum
+TOTAL ERC RuleChecks Executed:               6
+TOTAL ERC RuleCheck Results Generated:       0 (0)
+--- WARNING: POWER, GROUND, or LABELED nets required by ERC operations do not exist.
+
+Comparison Summary
+------------------
+Comparison Start Time:                       Tue Oct 14 22:52:28 2025
+Comparison Finish Time:                      Tue Oct 14 22:52:28 2025
+LVS Comparison Report:                       lvs.rep
+LVS Comparison Status:                       CORRECT.
+
+                            #                _   _     
+                           #                 *   *     
+                      #   #                    |       
+                       # #                   \___/     
+                        #                              
+
+Comparison Warning Types Detected:           1
+

@@ -1,0 +1,28 @@
+//  v2lvs v2018.4_17.10    Wed Oct 3 17:08:53 PDT 2018
+//
+//  Copyright (c) 1992, 1993 Regents of the University of California
+//         All rights reserved.
+//
+//        Copyright Mentor Graphics Corporation 1996-2018
+//                       All Rights Reserved.
+//   THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+//      WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION
+//        OR ITS LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+//
+//  The registered trademark Linux is used pursuant to a sublicense from LMI, the
+//  exclusive licensee of Linus Torvalds, owner of the mark on a world-wide basis.
+//
+//  Mentor Graphics software executing under x86-64 Linux
+//
+Running /usr/local/mentor/aoi_cal_2018.4_17.10/pkgs/icv/pvt/v2lvs -v /home/ac5522/VLSI/VLSI_Lab_2/LAB_2/lfsr4_soc.v -o /home/ac5522/VLSI/VLSI_Lab_2/_lfsr4_soc.v.sp -w 2
+
+Info: Creating Design Database ...
+Info: Converting Design ...
+Warning: No module declaration for module BUFFD1BWP7T first encountered in module lfsr4
+Warning: No module declaration for module CKBD0BWP7T first encountered in module lfsr4
+Warning: No module declaration for module DFSNQD1BWP7T first encountered in module lfsr4
+Warning: No module declaration for module CKXOR2D0BWP7T first encountered in module lfsr4
+Warning: No module declaration for module DFCNQD1BWP7T first encountered in module lfsr4
+Warning: No module declaration for module INVD0BWP7T first encountered in module lfsr4
+
+CPU TIME = 0  REAL TIME = 0  MALLOC = 4/4/4

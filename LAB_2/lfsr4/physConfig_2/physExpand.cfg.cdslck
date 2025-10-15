@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      ac5522
+HostName                       ee-mill1.ee.ic.ac.uk
+ProcessIdentifier              28579
+ProcessCreationTime_UTC        1760045931
+ProcessCreationTime_Readable   Thu Oct  9 22:38:51 2025 BST
+AppIdentifier                  /usr/local/cadence/IC_6.1.8.060/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/ac5522/VLSI/VLSI_Lab_2/LAB_2/lfsr4/physConfig_2/physExpand.cfg
+TimeEditLocked                 Thu Oct  9 22:44:28 2025 BST

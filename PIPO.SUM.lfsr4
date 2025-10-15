@@ -1,0 +1,111 @@
+********************************************************************************
+Product   : Virtuoso(R) XStream Out
+Program   : @(#)$CDS: strmout version 6.1.8-64b 08/27/2019 20:18 (cpgbld02.cadence.com) $
+          : sub-version  IC6.1.8-64b.500.6 
+Started at: 14-Oct-2025  22:52:26
+User Name : ac5522
+Host Name : ee-mill1
+Directory : /home/ac5522/VLSI/VLSI_Lab_2
+CADENCE Design Systems, Inc.
+********************************************************************************
+Info: Cellview Rev Num:99,  Tech Rev Num:59
+
+
+                       Individual Cell Statistics - Basic Objects
+---------------------------------------------------------------------------------------------------------------------------------------
+Library/Cell/View               Instance Array   Polygon  Rect   Path   PathSeg   Text   TextDisplay   Line   Dot   Arc   Donut   Ellipse 
+---------------------------------------------------------------------------------------------------------------------------------------
+tsmcN65/M2_M1/layout            0        0       0        3      0      0         0      0             0      0     0     0       0       
+tsmcN65/M2_M1/layout            0        0       0        3      0      0         0      0             0      0     0     0       0       
+tsmcN65/M2_M1/layout            0        0       0        3      0      0         0      0             0      0     0     0       0       
+tsmcN65/M2_M1/layout            0        0       0        3      0      0         0      0             0      0     0     0       0       
+tsmcN65/M2_M1/layout            0        0       0        3      0      0         0      0             0      0     0     0       0       
+tsmcN65/M2_M1/layout            0        0       0        4      0      0         0      0             0      0     0     0       0       
+tsmcN65/M2_M1/layout            0        0       0        3      0      0         0      0             0      0     0     0       0       
+tsmcN65/M2_M1/layout            0        0       0        3      0      0         0      0             0      0     0     0       0       
+tsmcN65/M2_M1/layout            0        0       0        3      0      0         0      0             0      0     0     0       0       
+tsmcN65/M2_M1/layout            0        0       0        3      0      0         0      0             0      0     0     0       0       
+tcbn65lpbwp7t_9lm/CKXOR2D0BWP7T/layout                          0        0       16       20     0      0         20     0             0      0     0     0       0       
+tcbn65lpbwp7t_9lm/TAPCELLBWP7T/layout                           0        0       4        9      0      0         17     0             0      0     0     0       0       
+LAB_2/lfsr4/layout              10       0       0        35     0      0         5      0             0      0     0     0       0       
+tcbn65lpbwp7t_9lm/DFSNQD1BWP7T/layout                           0        0       32       48     0      0         21     0             0      0     0     0       0       
+tcbn65lpbwp7t_9lm/BUFFD1BWP7T/layout                            0        0       7        14     0      0         19     0             0      0     0     0       0       
+tcbn65lpbwp7t_9lm/INVD0BWP7T/layout                             0        0       3        13     0      0         19     0             0      0     0     0       0       
+tcbn65lpbwp7t_9lm/DFCNQD1BWP7T/layout                           0        0       33       45     0      0         21     0             0      0     0     0       0       
+tcbn65lpbwp7t_9lm/CKBD0BWP7T/layout                             0        0       7        14     0      0         19     0             0      0     0     0       0       
+---------------------------------------------------------------------------------------------------------------------------------------
+
+                       Individual Cell Statistics - Advanced Objects
+---------------------------------------------------------------------------------------------------------------------------------------
+Library/Cell/View               PRBdy    OtherBdy   AreaBlkg   LayerBlkg  AreaHalo   Row   Marker   CustVia   StdVia    CdsGenVia
+---------------------------------------------------------------------------------------------------------------------------------------
+tsmcN65/M2_M1/layout            0        0          0          0          0          0     0        0         0         0        
+tsmcN65/M2_M1/layout            0        0          0          0          0          0     0        0         0         0        
+tsmcN65/M2_M1/layout            0        0          0          0          0          0     0        0         0         0        
+tsmcN65/M2_M1/layout            0        0          0          0          0          0     0        0         0         0        
+tsmcN65/M2_M1/layout            0        0          0          0          0          0     0        0         0         0        
+tsmcN65/M2_M1/layout            0        0          0          0          0          0     0        0         0         0        
+tsmcN65/M2_M1/layout            0        0          0          0          0          0     0        0         0         0        
+tsmcN65/M2_M1/layout            0        0          0          0          0          0     0        0         0         0        
+tsmcN65/M2_M1/layout            0        0          0          0          0          0     0        0         0         0        
+tsmcN65/M2_M1/layout            0        0          0          0          0          0     0        0         0         0        
+tcbn65lpbwp7t_9lm/CKXOR2D0BWP7T/layout                          0        0          0          0          0          0     0        0         0         0        
+tcbn65lpbwp7t_9lm/TAPCELLBWP7T/layout                           0        0          0          0          0          0     0        0         0         0        
+LAB_2/lfsr4/layout              0        0          0          0          0          0     0        0         28        0        
+tcbn65lpbwp7t_9lm/DFSNQD1BWP7T/layout                           0        0          0          0          0          0     0        0         0         0        
+tcbn65lpbwp7t_9lm/BUFFD1BWP7T/layout                            0        0          0          0          0          0     0        0         0         0        
+tcbn65lpbwp7t_9lm/INVD0BWP7T/layout                             0        0          0          0          0          0     0        0         0         0        
+tcbn65lpbwp7t_9lm/DFCNQD1BWP7T/layout                           0        0          0          0          0          0     0        0         0         0        
+tcbn65lpbwp7t_9lm/CKBD0BWP7T/layout                             0        0          0          0          0          0     0        0         0         0        
+---------------------------------------------------------------------------------------------------------------------------------------
+
+                       Statistics of Layers 
+---------------------------------------------------------------------------------------------------------------------------------------
+Cadence         Cadence         Stream  Stream   
+Layer           Purpose         Layer   Datatype  Polygon  Rect     Path     Text     TextDisplay   Line Dot Arc Donut Ellipse Pathseg
+---------------------------------------------------------------------------------------------------------------------------------------
+M2              drawing         32      0         0        35       0        0        0             0    0   0   0     0      0      
+NW              drawing         3       0         3        4        0        0        0             0    0   0   0     0      0      
+prBoundary      drawing         108     0         0        8        0        0        0             0    0   0   0     0      0      
+OD              pin             6       6         0        0        0        5        0             0    0   0   0     0      0      
+NP              drawing         26      0         4        4        0        0        0             0    0   0   0     0      0      
+IP              drawing         63      63        0        0        0        49       0             0    0   0   0     0      0      
+M1              drawing         31      0         42       23       0        0        0             0    0   0   0     0      0      
+CO              drawing         30      0         0        126      0        0        0             0    0   0   0     0      0      
+M1              pin             131     0         0        6        0        31       0             0    0   0   0     0      0      
+PO              drawing         17      0         36       0        0        0        0             0    0   0   0     0      0      
+VIA1            drawing         51      0         0        11       0        0        0             0    0   0   0     0      0      
+OD              drawing         6       0         13       8        0        49       0             0    0   0   0     0      0      
+PP              drawing         25      0         4        4        0        0        0             0    0   0   0     0      0      
+text            drawing         127     0         0        0        0        7        0             0    0   0   0     0      0      
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Summary of Objects Translated:
+	Scalar Instances:		10
+	Array Instances:		0
+	Polygons:			102
+	Paths:				0
+	Rectangles:			229
+	Lines:				0
+	Arcs:				0
+	Donuts:				0
+	Dots:				0
+	Ellipses:			0
+	Boundaries:			0
+	Area Blockages:			0
+	Layer Blockages:		0
+	Area Halos:			0
+	Markers:			0
+	Rows:				0
+	Standard Vias:			28
+	Custom Vias:			0
+	CdsGen Vias:			0
+	Pathsegs:			0
+	Text:				141
+	TextDisplay:		0
+	Cells:				18
+Design Libraries: 
+
+DEFINE LAB_2	/home/ac5522/VLSI/VLSI_Lab_2/LAB_2
+DEFINE tcbn65lpbwp7t_9lm	/usr/local/cadence/kits/tsmc/beLibs/65nm/TSMCHOME/libs/tcbn65lpbwp7t_9lm
+DEFINE tsmcN65	/usr/local/cadence/kits/tsmc/65n_LP/tsmcN65

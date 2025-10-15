@@ -1,0 +1,20 @@
+ncvlog: *W,DLNOHV: Unable to find an 'hdl.var' file to load in.
+TOOL:	ncvlog(64)	15.20-s058: Started on Oct 09, 2025 at 18:49:02 BST
+ncvlog
+    -use5x
+    -work __nclib
+    -view module
+    -logfile ncvlog.log
+    -cdslib /tmp/ihdl_cdslibb5741_25741
+    -messages
+    -nostdout
+    -nocopyright
+    -ESCAPEDNAME
+    /home/ac5522/VLSI/VLSI_Lab_2/LAB_2/lfsr4_soc.v
+
+file: /home/ac5522/VLSI/VLSI_Lab_2/LAB_2/lfsr4_soc.v
+	module __nclib.lfsr4:module
+		errors: 0, warnings: 0
+	Total errors/warnings found outside modules and primitives:
+		errors: 0, warnings: 1
+TOOL:	ncvlog(64)	15.20-s058: Exiting on Oct 09, 2025 at 18:49:02 BST  (total: 00:00:00)

@@ -1,0 +1,67 @@
+# Automagically generated file: Please do not edit!
+lvs_LvsOutFile RUNDIR /home/ac5522/VLSI/VLSI_Lab_2
+lvs_LvsfVersion 4
+lvs_LvsInputSummary {0 0 0}
+lvs_LvsComparisonSummary {3 1 0 0}
+lvs_LvsOutFile LVS_SUMMARY lvs.summary
+lvs_SourceCase NO
+lvs_LayoutCase NO
+lvs_PowerName AHVDD
+lvs_PowerName AHVDDB
+lvs_PowerName AHVDDG
+lvs_PowerName AHVDDR
+lvs_PowerName AHVDDWELL
+lvs_PowerName AVDD
+lvs_PowerName AVDDB
+lvs_PowerName AVDDBG
+lvs_PowerName AVDDG
+lvs_PowerName AVDDR
+lvs_PowerName AVDWELL
+lvs_PowerName DHVDD
+lvs_PowerName DVDD
+lvs_PowerName HVDDWELL
+lvs_PowerName TACVDD
+lvs_PowerName TAVD33
+lvs_PowerName TAVD33PST
+lvs_PowerName TAVDD
+lvs_PowerName TAVDDPST
+lvs_PowerName TVDD
+lvs_PowerName VD33
+lvs_PowerName VDD
+lvs_PowerName VDD5V
+lvs_PowerName VDDESD
+lvs_PowerName VDDG
+lvs_PowerName VDDM
+lvs_PowerName VDDPST
+lvs_PowerName VDDSA
+lvs_PowerName VDWELL
+lvs_GroundName AGND
+lvs_GroundName AHVSS
+lvs_GroundName AHVSSB
+lvs_GroundName AHVSSG
+lvs_GroundName AHVSSR
+lvs_GroundName AHVSSUB
+lvs_GroundName AVSS
+lvs_GroundName AVSSB
+lvs_GroundName AVSSBG
+lvs_GroundName AVSSG
+lvs_GroundName AVSSR
+lvs_GroundName AVSSUB
+lvs_GroundName DHVSS
+lvs_GroundName DVSS
+lvs_GroundName GND
+lvs_GroundName HVSSUB
+lvs_GroundName TAVSS
+lvs_GroundName TAVSSPST
+lvs_GroundName TVSS
+lvs_GroundName VS33
+lvs_GroundName VSS
+lvs_GroundName VSSESD
+lvs_GroundName VSSG
+lvs_GroundName VSSM
+lvs_GroundName VSSPST
+lvs_GroundName VSSUB
+lvs_LvsOutFile LVS_REPORT lvs.rep
+lvs_LvsOutFile SOURCE_NETLIST /home/ac5522/VLSI/VLSI_Lab_2/lfsr4.sp
+lvs_LvsOutFile RULES_FILE /home/ac5522/VLSI/VLSI_Lab_2/_calibre.lvs_
+lvs_LvsRunTimes 1760478748 1760478748

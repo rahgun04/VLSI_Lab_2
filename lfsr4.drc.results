@@ -1,0 +1,166 @@
+lfsr4 1000
+DRM.R.1
+1 1 3 Oct 14 22:36:01 2025                     
+DRM.R.1 { @ DRM.R.1 is a warining message to remind the users to check the related DRMs. Please refer to DRM.R.1 in the DRM for the details.
+  COPY CHIPx
+}
+p 1 4
+CN lfsr4 c 1 0 0 1 0 0 0
+3000 1190
+28070 1190
+28070 3525
+3000 3525
+DENSITY_RDBS
+0 0 5 Oct 14 22:36:01 2025
+M1.DN.5.density 0
+M2.DN.5.density 0
+M3.DN.5.density 0
+M4.DN.5.density 0
+M5.DN.5.density 0
+NET_AREA_RATIO_RDBS
+0 0 39 Oct 14 22:36:01 2025
+M1.DN.6.M1.density 0
+M1.DN.6.M2.density 0
+M2.DN.6.M2.density 0
+M1.DN.6.M3.density 0
+M2.DN.6.M3.density 0
+M3.DN.6.M3.density 0
+M2.DN.6.M4.density 0
+M3.DN.6.M4.density 0
+M4.DN.6.M4.density 0
+M3.DN.6.M5.density 0
+M4.DN.6.M5.density 0
+M5.DN.6.M5.density 0
+M4.DN.6.M6.density 0
+M5.DN.6.M6.density 0
+M5.DN.6.M7.density 0
+IND.DN.1L.M1.density 0
+IND.DN.1H.M1.density 0
+IND.DN.1L.M2.density 0
+IND.DN.1H.M2.density 0
+IND.DN.1L.M3.density 0
+IND.DN.1H.M3.density 0
+IND.DN.1L.M4.density 0
+IND.DN.1H.M4.density 0
+IND.DN.1L.M5.density 0
+IND.DN.1H.M5.density 0
+IND.DN.1L.M6.density 0
+IND.DN.1H.M6.density 0
+IND.DN.1L.M7.density 0
+IND.DN.1H.M7.density 0
+IND.DN.1L.M8.density 0
+IND.DN.1H.M8.density 0
+IND.DN.1L.M9.density 0
+IND.DN.1H.M9.density 0
+ESD.1g.hv_n.rep 0
+ESD.1g.hv_p.rep 0
+ESD.16g.NMOS.rep 0
+ESD.17g.PMOS.rep 0
+ESD.37g.rep 0
+SRAM_WARN_1.rep 0
+DENSITY_PRINT_FILES
+0 0 100 Oct 14 22:36:01 2025
+OD.DN.2L.density
+OD.DN.2H_IO.density
+OD.DN.2H_CORE.density
+OD.DN.3L.density
+OD.DN.3H_IO.density
+OD.DN.3H_CORE.density
+PO.DN.2.density
+PO.DN.3.density
+M1.DN.1.density
+M1.DN.1.1.density
+M1.DN.2.density
+M1.DN.4.density
+M2.DN.1.density
+M2.DN.1.1.density
+M2.DN.2.density
+M2.DN.4.density
+M3.DN.1.density
+M3.DN.1.1.density
+M3.DN.2.density
+M3.DN.4.density
+M4.DN.1.density
+M4.DN.1.1.density
+M4.DN.2.density
+M4.DN.4.density
+M5.DN.1.density
+M5.DN.1.1.density
+M5.DN.2.density
+M5.DN.4.density
+M6.DN.1.density
+M6.DN.1.1.density
+M6.DN.2.density
+M6.DN.4.density
+M7.DN.1.density
+M7.DN.1.1.density
+M7.DN.2.density
+M7.DN.4.density
+M8.DN.1.density
+M8.DN.1.1.density
+M8.DN.2.density
+M8.DN.4.density
+M8.DN.5L.density
+M8.DN.5H.density
+M9.DN.2L.density
+M9.DN.2H.density
+IND.DN.7.M1.density
+IND.DN.7.M2.density
+IND.DN.7.M3.density
+IND.DN.7.M4.density
+IND.DN.7.M5.density
+IND.DN.7.M6.density
+IND.DN.7.M7.density
+IND.DN.7.M8.density
+IND.DN.8.M1.density
+IND.DN.8.M2.density
+IND.DN.8.M3.density
+IND.DN.8.M4.density
+IND.DN.8.M5.density
+IND.DN.8.M6.density
+IND.DN.8.M7.density
+IND.DN.8.M8.density
+IND_MD.DN.11L.M1.density
+IND_MD.DN.11H.M1.density
+IND_MD.DN.11L.M2.density
+IND_MD.DN.11H.M2.density
+IND_MD.DN.11L.M3.density
+IND_MD.DN.11H.M3.density
+IND_MD.DN.11L.M4.density
+IND_MD.DN.11H.M4.density
+IND_MD.DN.11L.M5.density
+IND_MD.DN.11H.M5.density
+IND_MD.DN.11L.M6.density
+IND_MD.DN.11H.M6.density
+IND_MD.DN.11L.M7.density
+IND_MD.DN.11H.M7.density
+IND_MD.DN.11L.M8.density
+IND_MD.DN.11H.M8.density
+IND_MD.DN.11L.M9.density
+IND_MD.DN.11H.M9.density
+IND_MD.DN.10.density_M1.rep
+IND_MD.DN.10.density_M2.rep
+IND_MD.DN.10.density_M3.rep
+IND_MD.DN.10.density_M4.rep
+IND_MD.DN.10.density_M5.rep
+IND_MD.DN.10.density_M6.rep
+IND_MD.DN.7.M1.density
+IND_MD.DN.7.M2.density
+IND_MD.DN.7.M3.density
+IND_MD.DN.7.M4.density
+IND_MD.DN.7.M5.density
+IND_MD.DN.7.M6.density
+IND_MD.DN.7.M7.density
+IND_MD.DN.7.M8.density
+IND_MD.DN.8.M1.density
+IND_MD.DN.8.M2.density
+IND_MD.DN.8.M3.density
+IND_MD.DN.8.M4.density
+IND_MD.DN.8.M5.density
+IND_MD.DN.8.M6.density
+IND_MD.DN.8.M7.density
+IND_MD.DN.8.M8.density
+DFM_RDBS
+0 0 2 Oct 14 22:36:01 2025
+MOM.A.1.rep
+MOM.A.2.rep

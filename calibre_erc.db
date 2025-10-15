@@ -1,0 +1,27 @@
+lfsr4 1000
+mnpg
+0 0 2 Oct 14 22:52:28 2025                                                      
+Rule File Pathname: /home/ac5522/VLSI/VLSI_Lab_2/_calibre.lvs_
+MOS connected to both power and ground
+mppg
+0 0 2 Oct 14 22:52:28 2025                                                      
+Rule File Pathname: /home/ac5522/VLSI/VLSI_Lab_2/_calibre.lvs_
+MOS connected to both power and ground
+floating.nxwell_float
+0 0 3 Oct 14 22:52:28 2025
+ERROR IN PATHCHK                                     
+Rule File Pathname: /home/ac5522/VLSI/VLSI_Lab_2/_calibre.lvs_
+nxwell_float is not connected to POWER
+floating.psub
+0 0 3 Oct 14 22:52:28 2025
+ERROR IN PATHCHK                                     
+Rule File Pathname: /home/ac5522/VLSI/VLSI_Lab_2/_calibre.lvs_
+psub is not connected to GROUND
+npvss49
+0 0 2 Oct 14 22:52:28 2025                                                      
+Rule File Pathname: /home/ac5522/VLSI/VLSI_Lab_2/_calibre.lvs_
+ntap connected to GROUND
+ppvdd49
+0 0 2 Oct 14 22:52:28 2025                                                      
+Rule File Pathname: /home/ac5522/VLSI/VLSI_Lab_2/_calibre.lvs_
+ptap connected to POWER
