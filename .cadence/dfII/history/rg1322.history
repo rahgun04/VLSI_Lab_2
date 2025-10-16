@@ -1,0 +1,1 @@
+("lfsr4:/\tlfsr4 LAB_2 schematic" (("open" (nil hierarchy "/{LAB_2 lfsr4 schematic }:r"))) (((-2.03125 -8.28125) (27.7375 13.75)) "r" "Schematics XL" 11))("lfsr4:/\tlfsr4 LAB_2 layout" (("open" (nil hierarchy "/{LAB_2 lfsr4 layout }:a"))) (((-13.098 -15.976) (15.175 10.001)) "a" "VLS-GXL" 12))

@@ -1,0 +1,91 @@
+CADE Printer|default: \
+	:manufacturer=Adobe: \
+	:type=postscript1: \	
+	:spool=lpr -P_lp: \
+        :query=lpq -P_lp: \
+        :remove=lprm -P_lp $1: \
+	:maximumPages#1: \
+	:resolution#300: \
+	:paperSize="A" 2405 3165 86 86: \
+        :paperSize="B" 3165 4953 66 86: \
+	:paperSize="UU_sheet Asize" 2480 3335: \
+	:paperSize="UU_sheet Asize -> Letter" 2550 3450: \
+ 	:paperSize="Waveform - Letter Size" 2550 3300:
+
+CSPS 300dpi|Generic 300 dpi Adobe PostScript Plotter: \
+        :manufacturer=Adobe: \
+        :type=postscript1: \
+        :spool=lpr -Pcsps: \
+        :query=lpq -Pcsps: \
+        :remove=lprm -Pcsps $1: \
+        :resolution#300: \
+        :maximumPages#30: \
+        :paperSize="A" 2405 3165 86 66: \
+        :paperSize="B" 3165 4953 66 86:
+
+EPS file 600dpi BW|600dpi EPS: \
+	:manufacturer=Adobe: \
+	:type=epsf: \
+        :spool=lpr -Pnone: \
+        :query=lpq -Pnone: \
+        :remove=lprm -Pnone $1: \
+	:maximumPages#10: \
+	:resolution#600: \
+        :paperSize="A (8.5x11)" 4902 6402 99 99: \
+        :paperSize="B (11x14)" 6400 8400 99 99: 
+
+EPS file 600dpi Color|600dpi EPS-C: \
+	:manufacturer=Adobe: \
+	:type=postscript2: \
+        :spool=lpr -Pnone: \
+        :query=lpq -Pnone: \
+        :remove=lprm -Pnone $1: \
+	:maximumPages#10: \
+	:resolution#600: \
+        :paperSize="A (8.5x11)" 4902 6402 99 99: \
+        :paperSize="B (11x14)" 6400 8400 99 99: \
+        :paperSize="C 24 inch roll" 0 14350 99 99: \
+        :paperSize="D 36 inch roll" 0 21550 99 99:
+
+PS-level2 file 300dpi color|Generic 300 dpi Adobe PostScript Level 2 Plotter: \
+        :manufacturer=Adobe: \
+        :type=postscript2: \
+        :spool=lpr -Pnone: \
+        :query=lpq -Pnone: \
+        :remove=lprm -Pnone $1: \
+        :resolution#300: \
+        :maximumPages#30: \
+        :paperSize="A" 2405 3165 86 66: \
+        :paperSize="B" 3165 4953 66 86:
+
+PS-level2 file 600dpi color|Generic 300 dpi Adobe PostScript Level 2 Plotter: \
+        :manufacturer=Adobe: \
+        :type=postscript2: \
+        :spool=lpr -Pnone: \
+        :query=lpq -Pnone: \
+        :remove=lprm -Pnone $1: \
+        :resolution#600: \
+        :maximumPages#30: \
+        :paperSize="A" 2405 3165 86 66: \
+        :paperSize="B" 3165 4953 66 86:
+
+PS-level1 file 300dpi BW|Apple LaserWriter II NT/NTX: \
+	:spool=lpr -Plw: \
+	:query=lpq -Plw: \
+	:remove=lprm -Plw $3: \
+	:manufacturer=Apple Computer: \
+	:type=postscript1: \
+	:maximumPages#30: \
+	:resolution#300: \
+	:paperSize="A" 2400 3150 75 75:
+
+PS-level1 file 600dpi BW|Apple LaserWriter II NT/NTX: \
+	:spool=lpr -Plw: \
+	:query=lpq -Plw: \
+	:remove=lprm -Plw $3: \
+	:manufacturer=Apple Computer: \
+	:type=postscript1: \
+	:maximumPages#30: \
+	:resolution#600: \
+	:paperSize="A" 2400 3150 75 75:
+
